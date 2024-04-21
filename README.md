@@ -22,6 +22,9 @@ Players can choose their move (rock, paper, or scissors), and the computer rando
 ### Score Tracking
 The application keeps track of the score for each player, displaying the number of wins, losses, and ties throughout the game.
 
+## Screenshot
+url: https://github.com/thevishalsaini/Rock_Paper_Scissors-Project/blob/70a35f80733b751e55186d73612b5b23c5ec991c/Screenshot.png
+
 ## Installation
 
 Follow the steps below to set up and run the game locally:
